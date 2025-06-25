@@ -1,6 +1,6 @@
 # Application de Gestion de Bibliothèque
 
-## 1. Présentation Générale
+## 1. Présentation Générale         # J ai fait le rapport sous cette forme car j ai rencontre des problemes lors du push
 
 L'application de gestion de bibliothèque est un projet Python conçu avec une interface graphique en Tkinter. Elle permet de gérer les livres, les membres et de visualiser des statistiques liées à la bibliothèque.
 
@@ -49,10 +49,6 @@ Gestion_Bibliotheque_Oulkabous/
 │ └── visualisations.py
 ├── README.md
 └── requirement.txt
-
-markdown
-Copier
-Modifier
 
 ## 6. Description des Modules
 

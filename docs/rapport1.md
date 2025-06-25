@@ -116,4 +116,3 @@ Une vidéo presentation.mp4 est disponible dans le dossier assets/ pour démontr
 ## 11. Conclusion
 Cette application constitue un projet complet qui combine la programmation orientée objet, la gestion de fichiers, l’interface utilisateur graphique et l’analyse de données. Elle est simple, modulaire et extensible.
 
- # J ai fait le rapport sous cette forme car j ai rencontre des problemes lors du push du pdf vers github

@@ -24,7 +24,7 @@ Développer une application complète de gestion de bibliothèque en Python qui 
 
 ## 4. Diagramme de classe UML
 
-![diagramme_biblio.drawio](../assets/diagramme_biblio.drawio.png)
+![diagramme_biblio](../assets/diagramme_biblio.png)
 
 ## 5. Architecture du Projet
 

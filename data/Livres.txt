@@ -1,0 +1,7 @@
+1;Les Misérables;Victor Hugo;1862;Roman historique;disponible
+2;Notre-Dame de Paris;Victor Hugo;1831;Roman gothique;emprunté
+3;Le Secret de la Vallée;Anne Chirlie;2020;Roman contemporain;disponible
+4;Les Quatre Filles du docteur March;Louisa May Alcott;1868;Roman jeunesse;disponible
+5;Extrêmement fort et incroyablement près;Jonathan Safran Foer;2005;Roman contemporain;disponible
+6;Milkman;Anna Burns;2018;Roman psychologique;disponible
+7;Le Petit Prince;Antoine de Saint-Exupéry;1943;Conte;disponible

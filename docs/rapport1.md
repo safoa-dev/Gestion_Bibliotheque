@@ -1,7 +1,6 @@
 # Application de Gestion de Bibliothèque
 
-## 1. Présentation Générale         # J ai fait le rapport sous cette forme car j ai rencontre des problemes lors du push
-
+## 1. Présentation Générale        
 L'application de gestion de bibliothèque est un projet Python conçu avec une interface graphique en Tkinter. Elle permet de gérer les livres, les membres et de visualiser des statistiques liées à la bibliothèque.
 
 ## 2. Objectifs
@@ -116,3 +115,5 @@ Une vidéo presentation.mp4 est disponible dans le dossier assets/ pour démontr
 
 ## 11. Conclusion
 Cette application constitue un projet complet qui combine la programmation orientée objet, la gestion de fichiers, l’interface utilisateur graphique et l’analyse de données. Elle est simple, modulaire et extensible.
+
+ # J ai fait le rapport sous cette forme car j ai rencontre des problemes lors du push du pdf vers github

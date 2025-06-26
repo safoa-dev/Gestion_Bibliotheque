@@ -33,6 +33,9 @@ Gestion_Bibliotheque_Oulkabous/
 ├── assets/
 │ ├── presentation.mp4
 │ ├── stats_auteurs.png
+│ ├── d1.png
+│ ├── d2.png
+│ ├── d3.png
 │ └── stats_genres.png
 ├── data/
 │ ├── historique.csv
@@ -40,6 +43,7 @@ Gestion_Bibliotheque_Oulkabous/
 │ └── membre.txt
 ├── docs/
 │ └── rapport.pdf
+  └── rapport1.md
 ├── src/
 │ ├── bibliotheque.py
 │ ├── exceptions.py
